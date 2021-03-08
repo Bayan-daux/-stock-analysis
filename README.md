@@ -202,6 +202,7 @@ Note: Refactoring the code reduced the running time of the processes, see (Img.
 
 
 **Summary**
+*Advantages and Disadvantages of Refactoring Code*
 
 In general, refactoring is a much-needed activity in case we wanted to
 contribute to the opensource community or create our own libraries of codes and
