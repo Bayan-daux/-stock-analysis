@@ -189,7 +189,7 @@ End Sub
 
 (img. 2)
 
-Note: Refactoring the code reduced the running time of the processes, see (Img.
+Note: Refactoring the code is supposed to reduce the running time of the processes, see (Img.
 3) and (img. 4)
 
 ![](media/1d7422b6d44b7e985aff356989efd1bd.png)
